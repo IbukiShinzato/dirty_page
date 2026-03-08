@@ -1,0 +1,8 @@
+## File system
+.DS_Store
+
+## Build
+/target
+
+## Experiment file
+test_file
